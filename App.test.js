@@ -7,7 +7,7 @@ describe('App', () => {
     render(<App />);
   });
 
-  it('Test sprawdz czy wartość domyślna długości hasła to 8', () => {
+  it('Test sprawdza czy wartość domyślna długości hasła to 8', () => {
     const { getByTestId } = render(<App />);
     const lengthInput = getByTestId('length-input');
     expect(lengthInput.props.value).toBe('10');
