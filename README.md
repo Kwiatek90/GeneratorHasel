@@ -26,4 +26,5 @@ Aplikacja zawiera także 5 testów:
 ## Screenshoty
 Wygląd aplikacji
 
-![app](img/app.PNG width=100)
+<img src="img/app.PNG" width=50% height=50%>
+
