@@ -24,7 +24,8 @@ Aplikacja zawiera także 5 testów:
 * Testowanie, czy wygenerowane hasło ma właściwą długość
 
 ## Screenshoty
-<center>Wygląd aplikacji</center>
-
-<img align="center" src="img/app.PNG" width=30% height=30%>
-
+<p align="center">
+   Wygląd aplikacji
+  </br>
+  <img align="center" src="img/app.PNG" width=30% height=30%>
+</p>
