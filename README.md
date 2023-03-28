@@ -3,6 +3,7 @@
 ## Spis treści
 * [Generalne info](#generalne-info)
 * [Technologie](#technologie)
+* [Setup](#setup)
 * [Testy](#testy)
 * [Screenshoty](#screenshoty)
 
@@ -13,6 +14,14 @@ Aplikacja pozwala nam na generowanie hasła, charakterystykę hasła możemy wyb
 
 * Visual Studio Code
 * Expo Go
+
+## Setup
+
+Aplikacje uruchamiamy za pomocą komendy:
+
+```
+npm expo run
+```
 
 ## Testy
 
