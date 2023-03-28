@@ -29,6 +29,8 @@ npm run test
 ```
 
 ## Screenshoty
-Wygląd aplikacji
-
-![app](img/app.png)
+<p align="center">
+  Wygląd aplikacji
+  </br>
+  <img src="img/app.PNG" width=30% height=30%>
+</p>
