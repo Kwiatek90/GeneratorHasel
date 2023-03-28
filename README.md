@@ -23,6 +23,11 @@ Aplikacja zawiera także 5 testów:
 * Testowanie wyłączenia wszystkich opcji generowania hasła i sprawdzenie, czy przycisk "Wygeneruj hasło" nie działa
 * Testowanie, czy wygenerowane hasło ma właściwą długość
 
+Testy uruchamiamy za pomocą komendy:
+```
+npm run test
+```
+
 ## Screenshoty
 Wygląd aplikacji
 
